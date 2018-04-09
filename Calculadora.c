@@ -59,14 +59,14 @@ void main()
         break;
       case 0: break;
       default:
-        printf("\nIntroduce una opción valida...");
+        printf("\nIntroduce una opciÃ³n valida...");
     }
   } while (opc != 0);
 }
 
 void menu()
 {
-  printf ("\nIntroduce una opción de las siguientes:\n");
+  printf ("\nIntroduce una opciÃ³n de las siguientes:\n");
   printf ("1.- Sumar\n");
   printf ("2.- Restar\n");
   printf ("3.- Multiplicar\n");
